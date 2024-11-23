@@ -12,7 +12,7 @@
  😄 Pronouns: She/Her<br/> 
 ⚡ Fun fact: I play in a slowpitch softball league<br/> 
 
-- Take a look at my website: [Crstina's Site](https://testing-rfp6cl8cs-cristina-hernandezs-projects.vercel.app/)<br/> 
+🖱️ Take a look at my website: [Crstina's Site](https://testing-rfp6cl8cs-cristina-hernandezs-projects.vercel.app/)<br/> 
 
 [![Cristina's's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinahh&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
