@@ -7,7 +7,7 @@
  🎒 I have an Assoiciates Degree in Mathematics <br/> 
  🌱 I’m currently learning Svelte and Javascript<br/> 
  👯 I’m looking to collaborate on any project <br/> 
- 💬 Ask me about my cat🐈‍⬛<br/> 
+ 💬 Ask me about my cat 🐈‍⬛<br/> 
  📫 How to reach me: cristinahh@csu.fullerton.edu<br/> 
  😄 Pronouns: She/Her<br/> 
 ⚡ Fun fact: I play in a slowpitch softball league<br/> 
