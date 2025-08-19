@@ -3,7 +3,7 @@
 <!--
 **cristinahh/cristinahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
- 🎓 I'm a Computer Science senior at Cal State Fullerton<br/> 
+ 🎓 I'm a Computer Science graduate from Cal State Fullerton. Class of 2025<br/> 
  🎒 I have an Assoiciates Degree in Mathematics <br/> 
  🌱 I’m currently learning Svelte and Javascript<br/> 
  👯 I’m looking to collaborate on any project <br/> 
